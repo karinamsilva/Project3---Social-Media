@@ -1,17 +1,14 @@
-#  100 Days of Swift - Project 1 
+#  100 Days of Swift - Project 3
 
-## App Storm Viewer using ViewCode 
+## App Social Media using ViewCode 
 
- *Hacking with Swift first project, using viewCode*
+ *Hacking with Swift third project, using viewCode*
 
-- Created interface through code
-- Using delegates
-- Coordinator
-- Created extensions for constraints 
+- Made modifications to project one so it can share the images 
 
 ##Challenges from the first part of project one
 
-- [x] Adjust font size of label on the tableView Cell
-- [x] Sort order of photos name
-- [x] Show "Picture X of Y" instead of picture name on detail screen title
+- [x] Add image name to the list of items that are shared with activity items 
+- [ ] Go to project 1 and add bar button to main controller and recommend app
+- [ ] Go to project 2 and ad bar button item to show score when tapped 
 
